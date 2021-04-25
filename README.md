@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrPeare
 - 👀 I’m interested in Php and Python
-- 🌱 I’m currently learning Php
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Php and Python
 - 📫 How to reach me sguardian153@gmail.com
 
 <!---
